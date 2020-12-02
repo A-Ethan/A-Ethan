@@ -2,9 +2,6 @@
 
 Ethan.Shen 
 
-- 💬 CKA
-- 💬 PMP
-
 - ⚡ Docs： http://...
 
 
