@@ -2,7 +2,10 @@
 
 Ethan.Shen 
 
-- ⚡ Docs： http://...
+- 🤔 blog：https://www.ethanshen.cn/
+- 💬 Docs：https://docs.ethanshen.cn/
+- 📫 mail：200839608@qq.com / admin@ethanshen.cn
+
 
 
 <!--
