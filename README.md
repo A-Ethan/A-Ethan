@@ -2,6 +2,10 @@
 
 Ethan.Shen 
 
+Cloud Native Product Manager
+
+"CKA" "PMP" "go-python-php"
+
 - 🤔 blog：https://www.ethanshen.cn/
 - 💬 Docs：https://docs.ethanshen.cn/
 - 📫 mail：200839608@qq.com / admin@ethanshen.cn
